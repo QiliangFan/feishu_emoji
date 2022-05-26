@@ -1,0 +1,1725 @@
+{
+  "retina": false,
+  "ratio": 1,
+  "spriteWidth": 1640,
+  "spriteHeight": 1536,
+  "coords": {
+    "emoji_alarm.png": {
+      "x": 775,
+      "y": 386,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_angry.png": {
+      "x": 775,
+      "y": 482,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_applaud_v2.png": {
+      "x": 775,
+      "y": 578,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_attention.png": {
+      "x": 427,
+      "y": 480,
+      "width": 104,
+      "height": 96
+    },
+    "emoji_awesome.png": {
+      "x": 401,
+      "y": 672,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_awesomen_v2.png": {
+      "x": 497,
+      "y": 672,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_balloon_v2.png": {
+      "x": 593,
+      "y": 672,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_basketball.png": {
+      "x": 0,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_bear.png": {
+      "x": 120,
+      "y": 384,
+      "width": 110,
+      "height": 96
+    },
+    "emoji_beer.png": {
+      "x": 96,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_bepatientandthinklongterm.png": {
+      "x": 378,
+      "y": 96,
+      "width": 208,
+      "height": 96
+    },
+    "emoji_bepatientandthinklongterm_en.png": {
+      "x": 0,
+      "y": 0,
+      "width": 378,
+      "height": 96
+    },
+    "emoji_bereliableandtakeownership.png": {
+      "x": 378,
+      "y": 192,
+      "width": 208,
+      "height": 96
+    },
+    "emoji_bereliableandtakeownership_en.png": {
+      "x": 0,
+      "y": 96,
+      "width": 369,
+      "height": 96
+    },
+    "emoji_betrayed.png": {
+      "x": 192,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_bigkiss.png": {
+      "x": 288,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_blackface.png": {
+      "x": 384,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_blubber.png": {
+      "x": 480,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_blush.png": {
+      "x": 576,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_bomb.png": {
+      "x": 672,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_bubbletea.png": {
+      "x": 768,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_bull.png": {
+      "x": 872,
+      "y": 0,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_cake_v2.png": {
+      "x": 872,
+      "y": 96,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_calf.png": {
+      "x": 872,
+      "y": 192,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_candiedhaws.png": {
+      "x": 872,
+      "y": 288,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_checkmark.png": {
+      "x": 872,
+      "y": 384,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_chuckle.png": {
+      "x": 872,
+      "y": 480,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_clap.png": {
+      "x": 310,
+      "y": 576,
+      "width": 102,
+      "height": 96
+    },
+    "emoji_cleaver_v2.png": {
+      "x": 872,
+      "y": 576,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_click_v2.png": {
+      "x": 872,
+      "y": 672,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_coffee_v2.png": {
+      "x": 531,
+      "y": 480,
+      "width": 104,
+      "height": 96
+    },
+    "emoji_comfort.png": {
+      "x": 872,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_crazy.png": {
+      "x": 0,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_crossmark.png": {
+      "x": 96,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_cry.png": {
+      "x": 192,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_cucumber_v3.png": {
+      "x": 288,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_customersuccess_en.png": {
+      "x": 0,
+      "y": 192,
+      "width": 332,
+      "height": 96
+    },
+    "emoji_customersuccess_v2.png": {
+      "x": 0,
+      "y": 288,
+      "width": 169,
+      "height": 96
+    },
+    "emoji_darkapplaud_v2.png": {
+      "x": 384,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_darkclick_v2.png": {
+      "x": 480,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_darkfighton_v2.png": {
+      "x": 576,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_darkfingerheart_v2.png": {
+      "x": 672,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_darkfistbump_v2.png": {
+      "x": 768,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_darkhighfive_v2.png": {
+      "x": 864,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_darksalute_v2.png": {
+      "x": 968,
+      "y": 0,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_darkshake_v2.png": {
+      "x": 968,
+      "y": 96,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_darkthanks_v2.png": {
+      "x": 968,
+      "y": 192,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_darkthumbsdown_v2.png": {
+      "x": 968,
+      "y": 288,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_darkthumbsup_v2.png": {
+      "x": 968,
+      "y": 384,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_detergent.png": {
+      "x": 968,
+      "y": 480,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_dizzy.png": {
+      "x": 968,
+      "y": 576,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_dollar.png": {
+      "x": 775,
+      "y": 0,
+      "width": 97,
+      "height": 97
+    },
+    "emoji_done.png": {
+      "x": 968,
+      "y": 672,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_donnotgo.png": {
+      "x": 412,
+      "y": 576,
+      "width": 102,
+      "height": 96
+    },
+    "emoji_drool.png": {
+      "x": 968,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_drowsy.png": {
+      "x": 968,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_drumstick.png": {
+      "x": 0,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_dull.png": {
+      "x": 96,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_dullstare.png": {
+      "x": 192,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_eating.png": {
+      "x": 288,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_eatingfood_v2.png": {
+      "x": 384,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_eighteen.png": {
+      "x": 480,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_embarrassed.png": {
+      "x": 576,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_enough.png": {
+      "x": 340,
+      "y": 384,
+      "width": 108,
+      "height": 96
+    },
+    "emoji_errr.png": {
+      "x": 672,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_eyesclosed.png": {
+      "x": 768,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_facepalm.png": {
+      "x": 864,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_fighton_v2.png": {
+      "x": 960,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_fingerheart_v2.png": {
+      "x": 1064,
+      "y": 0,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_fire.png": {
+      "x": 1064,
+      "y": 96,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_firecracker_v3.png.png": {
+      "x": 1064,
+      "y": 192,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_fireworks_v2.png": {
+      "x": 1064,
+      "y": 288,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_fistbump_v2.png": {
+      "x": 1064,
+      "y": 384,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_followme.png": {
+      "x": 671,
+      "y": 0,
+      "width": 104,
+      "height": 96
+    },
+    "emoji_fortune.png": {
+      "x": 1064,
+      "y": 480,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_frown.png": {
+      "x": 1064,
+      "y": 576,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_generalInmeetingbusy_v2.png": {
+      "x": 1064,
+      "y": 672,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_generalbusinesstrip_v2.png": {
+      "x": 1064,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_generaldonotdisturb_v2.png": {
+      "x": 1064,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_generalmoonrest_v2.png": {
+      "x": 1064,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_generalsun.png": {
+      "x": 0,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_generaltravellingcar.png": {
+      "x": 96,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_generalworkfromhome.png": {
+      "x": 192,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_get_v3.png": {
+      "x": 288,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_gift_v2.png": {
+      "x": 384,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_glance.png": {
+      "x": 480,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_gold.png": {
+      "x": 576,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_goodjob.png": {
+      "x": 672,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_grin.png": {
+      "x": 768,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_hammer.png": {
+      "x": 864,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_headset_v3.png": {
+      "x": 215,
+      "y": 480,
+      "width": 106,
+      "height": 96
+    },
+    "emoji_heart.png": {
+      "x": 960,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_heartbroken.png": {
+      "x": 1056,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_highfive_v2.png": {
+      "x": 1160,
+      "y": 0,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_hug.png": {
+      "x": 338,
+      "y": 288,
+      "width": 132,
+      "height": 96
+    },
+    "emoji_hundred.png": {
+      "x": 671,
+      "y": 96,
+      "width": 104,
+      "height": 96
+    },
+    "emoji_husky.png": {
+      "x": 1160,
+      "y": 96,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_innocentsmile.png": {
+      "x": 1160,
+      "y": 192,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_irritated_v2.png": {
+      "x": 1160,
+      "y": 288,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_joyful.png": {
+      "x": 1160,
+      "y": 384,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_kiss.png": {
+      "x": 1160,
+      "y": 480,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_laugh.png": {
+      "x": 1160,
+      "y": 576,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lemon_v2.png": {
+      "x": 1160,
+      "y": 672,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lgtm_v3.png": {
+      "x": 775,
+      "y": 194,
+      "width": 97,
+      "height": 96
+    },
+    "emoji_lightapplaud_v2.png": {
+      "x": 1160,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lightclick_v2.png": {
+      "x": 1160,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lightfighton_v2.png": {
+      "x": 1160,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lightfingerheart_v2.png": {
+      "x": 1160,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lightfistbump_v2.png": {
+      "x": 0,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lighthighfive_v2.png": {
+      "x": 96,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lightsalute_v2.png": {
+      "x": 192,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lightshake_v2.png": {
+      "x": 288,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lightthanks_v2.png": {
+      "x": 384,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lightthumbsdown_v2.png": {
+      "x": 480,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lightthumbsup_v2.png": {
+      "x": 576,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lips.png": {
+      "x": 672,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_lol.png": {
+      "x": 448,
+      "y": 384,
+      "width": 108,
+      "height": 96
+    },
+    "emoji_lookdown.png": {
+      "x": 768,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_loudspeaker.png": {
+      "x": 864,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_love.png": {
+      "x": 960,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_luck.png": {
+      "x": 1056,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mad.png": {
+      "x": 775,
+      "y": 97,
+      "width": 97,
+      "height": 97
+    },
+    "emoji_mediumapplaud_v2.png": {
+      "x": 1152,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumclick_v2.png": {
+      "x": 1256,
+      "y": 0,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumdarkapplaud_v2.png": {
+      "x": 1256,
+      "y": 96,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumdarkclick_v2.png": {
+      "x": 1256,
+      "y": 192,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumdarkfighton_v2.png": {
+      "x": 1256,
+      "y": 288,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumdarkfingerheart_v2.png": {
+      "x": 1256,
+      "y": 384,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumdarkfistbump_v2.png": {
+      "x": 1256,
+      "y": 480,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumdarkhighfive_v2.png": {
+      "x": 1256,
+      "y": 576,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumdarksalute_v2.png": {
+      "x": 1256,
+      "y": 672,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumdarkshake_v2.png": {
+      "x": 1256,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumdarkthanks_v2.png": {
+      "x": 1256,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumdarkthumbsdown_v2.png": {
+      "x": 1256,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumdarkthumbsup_v2.png": {
+      "x": 1256,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumfighton_v2.png": {
+      "x": 1256,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumfingerheart_v2.png": {
+      "x": 0,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumfistbump_v2.png": {
+      "x": 96,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumhighfive_v2.png": {
+      "x": 192,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumlightapplaud_v2.png": {
+      "x": 288,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumlightclick_v2.png": {
+      "x": 384,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumlightfighton_v2.png": {
+      "x": 480,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumlightfingerheart_v2.png": {
+      "x": 576,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumlightfistbump_v2.png": {
+      "x": 672,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumlighthighfive_v2.png": {
+      "x": 768,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumlightsalute_v2.png": {
+      "x": 864,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumlightshake_v2.png": {
+      "x": 960,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumlightthanks_v2.png": {
+      "x": 1056,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumlightthumbsdown_v2.png": {
+      "x": 1152,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumlightthumbsup_v2.png": {
+      "x": 1248,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumsalute_v2.png": {
+      "x": 1352,
+      "y": 0,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumshake_v2.png": {
+      "x": 1352,
+      "y": 96,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumthanks_v2.png": {
+      "x": 1352,
+      "y": 192,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumthumbsdown_v2.png": {
+      "x": 1352,
+      "y": 288,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mediumthumbsup_v2.png": {
+      "x": 1352,
+      "y": 384,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_mememe.png": {
+      "x": 556,
+      "y": 384,
+      "width": 108,
+      "height": 96
+    },
+    "emoji_minusone_v3.png": {
+      "x": 1352,
+      "y": 480,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_money.png": {
+      "x": 1352,
+      "y": 576,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_music_v2.png": {
+      "x": 1352,
+      "y": 672,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_no_v3.png": {
+      "x": 671,
+      "y": 192,
+      "width": 104,
+      "height": 96
+    },
+    "emoji_nosepick.png": {
+      "x": 1352,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_obsessed.png": {
+      "x": 1352,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_ok_v2.png": {
+      "x": 671,
+      "y": 288,
+      "width": 104,
+      "height": 96
+    },
+    "emoji_okr.png": {
+      "x": 671,
+      "y": 384,
+      "width": 104,
+      "height": 96
+    },
+    "emoji_onesecond.png": {
+      "x": 0,
+      "y": 480,
+      "width": 108,
+      "height": 96
+    },
+    "emoji_onit.png": {
+      "x": 0,
+      "y": 384,
+      "width": 120,
+      "height": 96
+    },
+    "emoji_onleavestatus.png": {
+      "x": 1352,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_party.png": {
+      "x": 1352,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_pepper.png": {
+      "x": 1352,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_petrified.png": {
+      "x": 1352,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_pin.png": {
+      "x": 0,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_plusone.png": {
+      "x": 96,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_poop.png": {
+      "x": 192,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_praise.png": {
+      "x": 104,
+      "y": 576,
+      "width": 103,
+      "height": 96
+    },
+    "emoji_proud.png": {
+      "x": 288,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_puke.png": {
+      "x": 384,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_pursueultimate_en.png": {
+      "x": 378,
+      "y": 0,
+      "width": 293,
+      "height": 96
+    },
+    "emoji_pursueultimate_v2.png": {
+      "x": 169,
+      "y": 288,
+      "width": 169,
+      "height": 96
+    },
+    "emoji_rainbowpuke_v2.png": {
+      "x": 480,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_redpacket.png": {
+      "x": 576,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_roarforyou.png": {
+      "x": 470,
+      "y": 288,
+      "width": 132,
+      "height": 96
+    },
+    "emoji_rose.png": {
+      "x": 672,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_salute_v2.png": {
+      "x": 768,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_scowl.png": {
+      "x": 864,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_shake_v2.png": {
+      "x": 960,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_shhh.png": {
+      "x": 1056,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_shocked.png": {
+      "x": 108,
+      "y": 480,
+      "width": 107,
+      "height": 96
+    },
+    "emoji_showoff.png": {
+      "x": 1152,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_shy.png": {
+      "x": 1248,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_sick.png": {
+      "x": 1344,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_sigh.png": {
+      "x": 1448,
+      "y": 0,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_silent.png": {
+      "x": 1448,
+      "y": 96,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_skull.png": {
+      "x": 1448,
+      "y": 192,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_slap.png": {
+      "x": 1448,
+      "y": 288,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_sleep.png": {
+      "x": 1448,
+      "y": 384,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_slight.png": {
+      "x": 1448,
+      "y": 480,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_smart.png": {
+      "x": 1448,
+      "y": 576,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_smile.png": {
+      "x": 1448,
+      "y": 672,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_smirk.png": {
+      "x": 775,
+      "y": 290,
+      "width": 97,
+      "height": 96
+    },
+    "emoji_smooch.png": {
+      "x": 102,
+      "y": 672,
+      "width": 100,
+      "height": 96
+    },
+    "emoji_smug.png": {
+      "x": 1448,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_snowman.png": {
+      "x": 1448,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_sob.png": {
+      "x": 1448,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_soccer.png": {
+      "x": 1448,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_socool_v2.png": {
+      "x": 1448,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_speechless.png": {
+      "x": 207,
+      "y": 576,
+      "width": 103,
+      "height": 96
+    },
+    "emoji_spitblood.png": {
+      "x": 514,
+      "y": 576,
+      "width": 102,
+      "height": 96
+    },
+    "emoji_status_privatemessage.png": {
+      "x": 1448,
+      "y": 1248,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_statusbus.png": {
+      "x": 1448,
+      "y": 1344,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_statusenjoylife.png": {
+      "x": 0,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_statusflashofInspiration.png": {
+      "x": 96,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_statusinflight.png": {
+      "x": 192,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_statusreading.png": {
+      "x": 288,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_stickyriceballs.png": {
+      "x": 321,
+      "y": 480,
+      "width": 106,
+      "height": 96
+    },
+    "emoji_strive.png": {
+      "x": 384,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_sweat.png": {
+      "x": 202,
+      "y": 672,
+      "width": 100,
+      "height": 96
+    },
+    "emoji_tears.png": {
+      "x": 480,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_tease.png": {
+      "x": 576,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_terror.png": {
+      "x": 672,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_thanks_v2.png": {
+      "x": 768,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_thinking.png": {
+      "x": 864,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_thumbsdown_v2.png": {
+      "x": 960,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_thumbsup_v2.png": {
+      "x": 1056,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_toasted.png": {
+      "x": 1152,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_tongue.png": {
+      "x": 1248,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_trick.png": {
+      "x": 1344,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_trophy.png": {
+      "x": 1440,
+      "y": 1440,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_twentytwentyone_v2.png": {
+      "x": 1544,
+      "y": 0,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_twentytwentytwo.png": {
+      "x": 1544,
+      "y": 96,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_typing.png": {
+      "x": 1544,
+      "y": 192,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_unknown.png": {
+      "x": 1544,
+      "y": 288,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_wail.png": {
+      "x": 230,
+      "y": 384,
+      "width": 110,
+      "height": 96
+    },
+    "emoji_wave.png": {
+      "x": 302,
+      "y": 672,
+      "width": 99,
+      "height": 96
+    },
+    "emoji_welldone.png": {
+      "x": 1544,
+      "y": 384,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_what.png": {
+      "x": 671,
+      "y": 480,
+      "width": 104,
+      "height": 96
+    },
+    "emoji_whimper.png": {
+      "x": 1544,
+      "y": 480,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_wink.png": {
+      "x": 1544,
+      "y": 576,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_witty.png": {
+      "x": 616,
+      "y": 576,
+      "width": 102,
+      "height": 96
+    },
+    "emoji_wow.png": {
+      "x": 1544,
+      "y": 672,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_wronged.png": {
+      "x": 1544,
+      "y": 768,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_xmashat.png": {
+      "x": 1544,
+      "y": 864,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_xmastree.png": {
+      "x": 1544,
+      "y": 960,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_yawn.png": {
+      "x": 1544,
+      "y": 1056,
+      "width": 96,
+      "height": 96
+    },
+    "emoji_yeah.png": {
+      "x": 0,
+      "y": 672,
+      "width": 102,
+      "height": 96
+    },
+    "emoji_yes_v2.png": {
+      "x": 0,
+      "y": 576,
+      "width": 104,
+      "height": 96
+    },
+    "emoji_youarethebest.png": {
+      "x": 1544,
+      "y": 1152,
+      "width": 96,
+      "height": 96
+    }
+  },
+  "keyMap": {
+    "2021": "emoji_twentytwentyone_v2.png",
+    "2022": "emoji_twentytwentytwo.png",
+    "18X": "emoji_eighteen.png",
+    "ANGRY": "emoji_angry.png",
+    "APPLAUSE": "emoji_applaud_v2.png",
+    "BEAR": "emoji_bear.png",
+    "BEER": "emoji_beer.png",
+    "BIGKISS": "emoji_bigkiss.png",
+    "BLUBBER": "emoji_blubber.png",
+    "XBLUSH": "emoji_blush.png",
+    "BOMB": "emoji_bomb.png",
+    "CAKE": "emoji_cake_v2.png",
+    "CHUCKLE": "emoji_chuckle.png",
+    "CLAP": "emoji_clap.png",
+    "CLEAVER": "emoji_cleaver_v2.png",
+    "SHOWOFF": "emoji_showoff.png",
+    "CRAZY": "emoji_crazy.png",
+    "CRY": "emoji_cry.png",
+    "CUCUMBER": "emoji_cucumber_v3.png",
+    "DIZZY": "emoji_dizzy.png",
+    "DROWSY": "emoji_drowsy.png",
+    "DULL": "emoji_dull.png",
+    "EATING": "emoji_eating.png",
+    "EMBARRASSED": "emoji_embarrassed.png",
+    "ERROR": "emoji_errr.png",
+    "EYESCLOSED": "emoji_eyesclosed.png",
+    "FACEPALM": "emoji_facepalm.png",
+    "FINGERHEART": "emoji_fingerheart_v2.png",
+    "FISTBUMP": "emoji_fistbump_v2.png",
+    "GIFT": "emoji_gift_v2.png",
+    "GLANCE": "emoji_glance.png",
+    "BLUSH": "emoji_grin.png",
+    "HAMMER": "emoji_hammer.png",
+    "HEADSET": "emoji_headset_v3.png",
+    "HEART": "emoji_heart.png",
+    "HEARTBROKEN": "emoji_heartbroken.png",
+    "HIGHFIVE": "emoji_highfive_v2.png",
+    "HUG": "emoji_hug.png",
+    "HUSKY": "emoji_husky.png",
+    "INNOCENTSMILE": "emoji_innocentsmile.png",
+    "JOYFUL": "emoji_joyful.png",
+    "KISS": "emoji_kiss.png",
+    "LAUGH": "emoji_laugh.png",
+    "LIPS": "emoji_lips.png",
+    "LOL": "emoji_lol.png",
+    "LOOKDOWN": "emoji_lookdown.png",
+    "LOVE": "emoji_love.png",
+    "BLACKFACE": "emoji_blackface.png",
+    "NOSEPICK": "emoji_nosepick.png",
+    "OBSESSED": "emoji_obsessed.png",
+    "OK": "emoji_ok_v2.png",
+    "PARTY": "emoji_party.png",
+    "PETRIFIED": "emoji_petrified.png",
+    "POOP": "emoji_poop.png",
+    "PRAISE": "emoji_praise.png",
+    "PROUD": "emoji_proud.png",
+    "PUKE": "emoji_puke.png",
+    "RAINBOWPUKE": "emoji_rainbowpuke_v2.png",
+    "ROSE": "emoji_rose.png",
+    "SALUTE": "emoji_salute_v2.png",
+    "SCOWL": "emoji_scowl.png",
+    "SHAKE": "emoji_shake_v2.png",
+    "SHHH": "emoji_shhh.png",
+    "SHOCKED": "emoji_shocked.png",
+    "SHY": "emoji_shy.png",
+    "SICK": "emoji_sick.png",
+    "SILENT": "emoji_silent.png",
+    "SKULL": "emoji_skull.png",
+    "SLAP": "emoji_slap.png",
+    "SLEEP": "emoji_sleep.png",
+    "SLIGHT": "emoji_slight.png",
+    "SMART": "emoji_smart.png",
+    "SMILE": "emoji_smile.png",
+    "SMIRK": "emoji_smirk.png",
+    "SMOOCH": "emoji_smooch.png",
+    "SMUG": "emoji_smug.png",
+    "SOB": "emoji_sob.png",
+    "SPEECHLESS": "emoji_speechless.png",
+    "SPITBLOOD": "emoji_spitblood.png",
+    "STRIVE": "emoji_strive.png",
+    "SWEAT": "emoji_sweat.png",
+    "TEARS": "emoji_tears.png",
+    "TEASE": "emoji_tease.png",
+    "TERROR": "emoji_terror.png",
+    "THANKS": "emoji_thanks_v2.png",
+    "THINKING": "emoji_thinking.png",
+    "THUMBSUP": "emoji_thumbsup_v2.png",
+    "TOASTED": "emoji_toasted.png",
+    "TONGUE": "emoji_tongue.png",
+    "UPPERLEFT": "emoji_click_v2.png",
+    "WAIL": "emoji_wail.png",
+    "WAVE": "emoji_wave.png",
+    "WHAT": "emoji_what.png",
+    "WHIMPER": "emoji_whimper.png",
+    "WINK": "emoji_wink.png",
+    "WITTY": "emoji_witty.png",
+    "WOW": "emoji_wow.png",
+    "WRONGED": "emoji_wronged.png",
+    "YAWN": "emoji_yawn.png",
+    "YEAH": "emoji_yeah.png",
+    "DONE": "emoji_done.png",
+    "LUCK": "emoji_luck.png",
+    "REDPACKET": "emoji_redpacket.png",
+    "FIRECRACKER": "emoji_firecracker_v3.png",
+    "AWESOMEN": "emoji_awesomen_v2.png",
+    "CALF": "emoji_calf.png",
+    "BULL": "emoji_bull.png",
+    "FORTUNE": "emoji_fortune.png",
+    "CANDIEDHAWS": "emoji_candiedhaws.png",
+    "FIREWORKS": "emoji_fireworks_v2.png",
+    "ENOUGH": "emoji_enough.png",
+    "COMFORT": "emoji_comfort.png",
+    "DROOL": "emoji_drool.png",
+    "TRICK": "emoji_trick.png",
+    "DULLSTARE": "emoji_dullstare.png",
+    "MUSCLE": "emoji_fighton_v2.png",
+    "HAUGHTY": "emoji_irritated_v2.png",
+    "BETRAYED": "emoji_betrayed.png",
+    "DONNOTGO": "emoji_donnotgo.png",
+    "MONEY": "emoji_money.png",
+    "FROWN": "emoji_frown.png",
+    "JIAYI": "emoji_plusone.png",
+    "ATTENTION": "emoji_attention.png",
+    "WELLDONE": "emoji_welldone.png",
+    "FOLLOWME": "emoji_followme.png",
+    "DETERGENT": "emoji_detergent.png",
+    "AWESOME": "emoji_awesome.png",
+    "GOODJOB": "emoji_goodjob.png",
+    "EatingFood": "emoji_eatingfood_v2.png",
+    "Typing": "emoji_typing.png",
+    "Lemon": "emoji_lemon_v2.png",
+    "Get": "emoji_get_v3.png",
+    "LGTM": "emoji_lgtm_v3.png",
+    "ThumbsDown": "emoji_thumbsdown_v2.png",
+    "Drumstick": "emoji_drumstick.png",
+    "Pepper": "emoji_pepper.png",
+    "BubbleTea": "emoji_bubbletea.png",
+    "Coffee": "emoji_coffee_v2.png",
+    "Yes": "emoji_yes_v2.png",
+    "No": "emoji_no_v3.png",
+    "OKR": "emoji_okr.png",
+    "CheckMark": "emoji_checkmark.png",
+    "CrossMark": "emoji_crossmark.png",
+    "MinusOne": "emoji_minusone_v3.png",
+    "Hundred": "emoji_hundred.png",
+    "Pin": "emoji_pin.png",
+    "Alarm": "emoji_alarm.png",
+    "Loudspeaker": "emoji_loudspeaker.png",
+    "Trophy": "emoji_trophy.png",
+    "Fire": "emoji_fire.png",
+    "Music": "emoji_music_v2.png",
+    "Soccer": "emoji_soccer.png",
+    "Basketball": "emoji_basketball.png",
+    "GeneralDoNotDisturb": "emoji_generaldonotdisturb_v2.png",
+    "GeneralInMeetingBusy": "emoji_generalInmeetingbusy_v2.png",
+    "GeneralBusinessTrip": "emoji_generalbusinesstrip_v2.png",
+    "GeneralWorkFromHome": "emoji_generalworkfromhome.png",
+    "StatusEnjoyLife": "emoji_statusenjoylife.png",
+    "GeneralTravellingCar": "emoji_generaltravellingcar.png",
+    "StatusBus": "emoji_statusbus.png",
+    "StatusInFlight": "emoji_statusinflight.png",
+    "GeneralSun": "emoji_generalsun.png",
+    "GeneralMoonRest": "emoji_generalmoonrest_v2.png",
+    "StatusReading": "emoji_statusreading.png",
+    "Status_PrivateMessage": "emoji_status_privatemessage.png",
+    "StatusFlashOfInspiration": "emoji_statusflashofInspiration.png",
+    "MediumLightThumbsup": "emoji_mediumlightthumbsup_v2.png",
+    "LightThumbsup": "emoji_lightthumbsup_v2.png",
+    "MediumThumbsup": "emoji_mediumthumbsup_v2.png",
+    "MediumDarkThumbsup": "emoji_mediumdarkthumbsup_v2.png",
+    "DarkThumbsup": "emoji_darkthumbsup_v2.png",
+    "MediumLightThanks": "emoji_mediumlightthanks_v2.png",
+    "LightThanks": "emoji_lightthanks_v2.png",
+    "MediumThanks": "emoji_mediumthanks_v2.png",
+    "MediumDarkThanks": "emoji_mediumdarkthanks_v2.png",
+    "DarkThanks": "emoji_darkthanks_v2.png",
+    "MediumLightFightOn": "emoji_mediumlightfighton_v2.png",
+    "LightFightOn": "emoji_lightfighton_v2.png",
+    "MediumFightOn": "emoji_mediumfighton_v2.png",
+    "MediumDarkFightOn": "emoji_mediumdarkfighton_v2.png",
+    "DarkFightOn": "emoji_darkfighton_v2.png",
+    "MediumLightFingerHeart": "emoji_mediumlightfingerheart_v2.png",
+    "LightFingerHeart": "emoji_lightfingerheart_v2.png",
+    "MediumFingerHeart": "emoji_mediumfingerheart_v2.png",
+    "MediumDarkFingerHeart": "emoji_mediumdarkfingerheart_v2.png",
+    "DarkFingerHeart": "emoji_darkfingerheart_v2.png",
+    "MediumLightApplaud": "emoji_mediumlightapplaud_v2.png",
+    "LightApplaud": "emoji_lightapplaud_v2.png",
+    "MediumApplaud": "emoji_mediumapplaud_v2.png",
+    "MediumDarkApplaud": "emoji_mediumdarkapplaud_v2.png",
+    "DarkApplaud": "emoji_darkapplaud_v2.png",
+    "MediumLightFistBump": "emoji_mediumlightfistbump_v2.png",
+    "LightFistBump": "emoji_lightfistbump_v2.png",
+    "MediumFistBump": "emoji_mediumfistbump_v2.png",
+    "MediumDarkFistBump": "emoji_mediumdarkfistbump_v2.png",
+    "DarkFistBump": "emoji_darkfistbump_v2.png",
+    "MediumLightHighFive": "emoji_mediumlighthighfive_v2.png",
+    "LightHighFive": "emoji_lighthighfive_v2.png",
+    "MediumHighFive": "emoji_mediumhighfive_v2.png",
+    "MediumDarkHighFive": "emoji_mediumdarkhighfive_v2.png",
+    "DarkHighFive": "emoji_darkhighfive_v2.png",
+    "MediumLightClick": "emoji_mediumlightclick_v2.png",
+    "LightClick": "emoji_lightclick_v2.png",
+    "MediumClick": "emoji_mediumclick_v2.png",
+    "MediumDarkClick": "emoji_mediumdarkclick_v2.png",
+    "DarkClick": "emoji_darkclick_v2.png",
+    "MediumLightThumbsDown": "emoji_mediumlightthumbsdown_v2.png",
+    "LightThumbsDown": "emoji_lightthumbsdown_v2.png",
+    "MediumThumbsDown": "emoji_mediumthumbsdown_v2.png",
+    "MediumDarkThumbsDown": "emoji_mediumdarkthumbsdown_v2.png",
+    "DarkThumbsDown": "emoji_darkthumbsdown_v2.png",
+    "MediumLightSalute": "emoji_mediumlightsalute_v2.png",
+    "LightSalute": "emoji_lightsalute_v2.png",
+    "MediumSalute": "emoji_mediumsalute_v2.png",
+    "MediumDarkSalute": "emoji_mediumdarksalute_v2.png",
+    "DarkSalute": "emoji_darksalute_v2.png",
+    "MediumLightShake": "emoji_mediumlightshake_v2.png",
+    "LightShake": "emoji_lightshake_v2.png",
+    "MediumShake": "emoji_mediumshake_v2.png",
+    "MediumDarkShake": "emoji_mediumdarkshake_v2.png",
+    "DarkShake": "emoji_darkshake_v2.png",
+    "GeneralVacation": "emoji_onleavestatus.png",
+    "RoarForYou": "emoji_roarforyou.png",
+    "StickyRiceBalls": "emoji_stickyriceballs.png",
+    "MeMeMe": "emoji_mememe.png",
+    "YouAreTheBest": "emoji_youarethebest.png",
+    "XmasTree": "emoji_xmastree.png",
+    "Snowman": "emoji_snowman.png",
+    "XmasHat": "emoji_xmashat.png",
+    "OnIt": "emoji_onit.png",
+    "OneSecond": "emoji_onesecond.png",
+    "Sigh": "emoji_sigh.png"
+  },
+  "overseaKeyMapPatch": {
+    "2021": "emoji_balloon_v2.png",
+    "AWESOMEN": "emoji_socool_v2.png",
+    "FORTUNE": "emoji_gold.png",
+    "BETRAYED": "emoji_mad.png",
+    "MONEY": "emoji_dollar.png"
+  }
+}
